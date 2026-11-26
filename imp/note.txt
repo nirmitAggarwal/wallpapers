@@ -1,0 +1,37 @@
+delve plans
+
+thumbnails arent showing
+live update of icons on permanent delete in trash
+external media and pen drive support
+in dark mode the icons on expanded sidebar should be light 
+
+better home section with pie charts or line for space filled and available
+pinned folders 
+basic folders
+recent folder
+
+drive partition features
+
+on setting color to default there is still a blue dot in front of code folder where there shouldn't be because its on default
+
+also if no icon is set for colored folders than the icon in theme chosen should change/turn the color and not a different line colored folder
+
+also I want to be able to right click on sidebar option (both mode mini and expanded) and locations in the location bar to do stuff
+
+right click on blank space of a folder
+
+tab management(move them around with mouse)
+
+better open with with commands for open with 
+
+extract zip functionality
+
+priority loading on thumbnails of open folder
+
+we need to refine the drag and move mechanism (same folder no moveing and ask for for copying.)
+
+letter based quick selection and moving 
+
+font options in settings
+
+better looking settings tab
